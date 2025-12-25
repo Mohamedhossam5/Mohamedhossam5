@@ -1,11 +1,10 @@
-<h1 align="center">Hi, I'm Mohamed Badawy 👋</h1>
+<h1 align="center">Hi, I'm Mohamed Hossam 👋</h1>
 
 ###
 
 <p align="left">
-🔭 Full-Stack Software Developer with strong backend focus<br>
+🔭 Software Developer<br>
 🧠 Interested in AI-powered and data-driven applications<br>
-🎓 Business Information Systems (BIS) student<br>
 📫 Reach me at: <a href="mailto:mohamedhossam1044@gmail.com">mohamedhossam1044@gmail.com</a><br>
 ⚡ Discord: 9991.
 </p>
@@ -32,7 +31,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,python,html,css,bootstrap,react,nodejs,express,dotnet,mongodb,mysql,sqlserver,git,github,vscode,visualstudio,postman" height="50" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,python,html,css,bootstrap,react,nodejs,express,dotnet,mongodb,mysql,sqlserver,git,github,vscode,visualstudio,postman" height="70" />
 </div>
 
 ###
