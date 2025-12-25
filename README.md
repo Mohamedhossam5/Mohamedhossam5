@@ -4,10 +4,10 @@
 
 <p align="left">
 🔭 Full-Stack Software Developer with strong backend focus<br>
-🧠 Interested in AI-powered applications & data-driven systems<br>
+🧠 Interested in AI-powered and data-driven applications<br>
 🎓 Business Information Systems (BIS) student<br>
-📫 Reach me at: <a href="mailto:mohamedahmedf50@gmail.com">mohamedahmedf50@gmail.com</a><br>
-⚡ Discord: mohamed_badawy1
+📫 Reach me at: <a href="mailto:mohamedhossam1044@gmail.com">mohamedhossam1044@gmail.com</a><br>
+⚡ Discord: 9991.
 </p>
 
 ###
@@ -17,58 +17,22 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mohamed-badawy1/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-hossam04/" target="_blank">
     <img width="55" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
   </a>
-  <a href="mailto:mohamedahmedf50@gmail.com">
+  <a href="mailto:mohamedhossam1044@gmail.com">
     <img width="55" src="https://skillicons.dev/icons?i=gmail" alt="gmail"/>
   </a>
 </div>
 
 ###
 
-<h2 align="left">💻 Tech Stack & Tools</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 ###
 
-<h4 align="left">Languages</h4>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,python" height="50" />
-</div>
-
-###
-
-<h4 align="left">Backend & APIs</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" height="50" />
-</div>
-
-###
-
-<h4 align="left">Frontend</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" height="50" />
-</div>
-
-###
-
-<h4 align="left">Databases</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlserver" height="50" />
-</div>
-
-###
-
-<h4 align="left">Tools & Platforms</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" height="50" />
-</div>
-
-###
-
-<h4 align="left">AI / Data (Foundational)</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" height="50" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,python,html,css,bootstrap,react,nodejs,express,dotnet,mongodb,mysql,sqlserver,git,github,vscode,visualstudio,postman" height="50" />
 </div>
 
 ###
