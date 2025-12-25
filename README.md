@@ -31,7 +31,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,python,html,css,bootstrap,react,nodejs,express,dotnet,mongodb,mysql,sqlserver,git,github,vscode,visualstudio,postman" height="70" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,python,html,css,bootstrap,react,nodejs,express,dotnet,mongodb,mysql,sqlserver,git,github,vscode,visualstudio,postman" height="90" />
 </div>
 
 ###
